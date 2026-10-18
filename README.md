@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RAG Document Q&A
 
 A Retrieval-Augmented Generation (RAG) application that lets users upload text documents and ask questions about their content. It creates embeddings with Google's Gemini API, stores document chunks in Supabase PostgreSQL with pgvector, retrieves relevant chunks using cosine distance, and generates answers grounded in the retrieved context.
