@@ -255,6 +255,3 @@ python edge_tests.py
 
 Never commit `.env`, API keys, database passwords, or connection strings. If credentials have been exposed, rotate them and update your local environment variables before using or publishing the project.
 
-## Author
-
-Add your name and GitHub profile here.
