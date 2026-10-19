@@ -251,7 +251,4 @@ python edge_tests.py
 - Add production-ready database connection pooling and automated tests.
 - Deploy the API to a hosting service and document the live URL once deployment is complete.
 
-## Security
-
-Never commit `.env`, API keys, database passwords, or connection strings. If credentials have been exposed, rotate them and update your local environment variables before using or publishing the project.
 
